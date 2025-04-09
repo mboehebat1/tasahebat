@@ -1,0 +1,29 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+/* tabel */
+.table .tr {border-width: 1px;
+    border-style: inset;
+  border: #2e8b57;
+    }
+ /*body*/
+    body {
+  background-color: #f9f9f9;
+ color: #333;
+ line-height: 1.6;
+ font-size: 16px;
+ scroll-behavior: smooth; /* Smooth scrolling */
+ }
+ /* Container */
+  .container {
+      width: 90%;
+  max-width: 1200px;
+ margin: auto;
+  overflow: hidden;
+  }
